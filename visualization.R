@@ -1,5 +1,5 @@
 ###### read in results ######
-org_folder <- "E:/clinstat_dev/GMA/RuofanBie Intern 2023/"
+# org_folder <- #### setup your folders 
 
 est_res <- read.csv(paste0(org_folder, "est_results.csv"))
 valid_res <- read.csv(paste0(org_folder, "valid_results.csv"))
